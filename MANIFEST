@@ -1,0 +1,9 @@
+LICENSE
+Changes
+Makefile.PL
+README
+MANIFEST.SKIP
+.cvsignore
+lib/IIT/Auth.pm
+t/01_auth.t
+MANIFEST

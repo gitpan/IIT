@@ -1,0 +1,8 @@
+Revision history for Perl extension IIT::Auth.
+
+0.01  Wed Jun 19 18:52:20 2002
+	- original version; created by ExtUtils::ModuleMaker 0.204
+0.02  Thu Jun 20 12:02:20 20002
+	- added function status to return login status
+0.03  Thu Jun 20 15:02:20 20002
+	- added function logout to remove session
